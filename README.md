@@ -1,1 +1,1 @@
-&lt;script&gt;alert(1)&#003;
+&lt;script&gt;alert(1)&#000003;
