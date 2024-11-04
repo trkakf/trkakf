@@ -1,1 +1,1 @@
-<script> alert(1)</script>
+<scr<script>ipt> alert(1)</script>
